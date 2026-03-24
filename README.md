@@ -45,7 +45,7 @@ The goal is to enable communication between a computer (USB) and UART-based devi
 - Test hardware functionality
   
 ## PCB Layout
-![PCB](images/schematic_usb_to_uart)
+![PCB](schematic.png)
 
 ## Schematic
-![Schematic](images/pcb.png)
+![Schematic](pcb.png)
