@@ -43,3 +43,9 @@ The goal is to enable communication between a computer (USB) and UART-based devi
 - Generate Gerber files
 - Fabricate PCB
 - Test hardware functionality
+  
+## PCB Layout
+![PCB](images/pcb.png)
+
+## Schematic
+![Schematic](images/schematic.png)
